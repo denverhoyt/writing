@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "San Francisco cuts a new figure"
+description: "A new crop of buildings is changing the topography of the city"
+author: Denver Hoyt
+date:   2017-06-02 10:17:00 -0500
+categories: Opinion, San Francisco, Travel
+masthead: 'masthead.jpg'
+---
 
 San Francisco is a small jewel box of a city, a peninsula constrained to 47 square miles by water on three of its four sides. For all its exponential growth in population and economy in recent decades, filled to bursting at its seams of transportation and housing, the city's skyline has remained little changed since its punctuation by the acute point of the TransAmerica Pyramid in 1972. That structure was once derided as "an inhumane creation" by the city's top planner, its construction proceeding in the face of resistance on varied fronts, from well-heeled North Beach neighbors to professional groups of architects and planners. At some distance from the rest of the Financial District's high rises, the Pyramid was a strange, modern incongruity rising above an area uncluttered by other looming monuments and still mostly comprised of Victorian buildings no more than six stories tall. Progressive Architecture magazine predicted its impact would be "no less reprehensible than ... destroying the Grand Canyon". The hubris of 20 stories of spire that served no purpose other than to make it the tallest point on the horizon was, to some contemporaries, insulting. But soon after its completion, the opposition died down and the skyscraper was embraced even by some former critics. Cities change and come to be defined by their own iconoclasm; the eared trigonometry of the TransAmerica silhouette became a civic icon. "Brash and slightly odd- just like the city that calls it home," the Pyramid was described in a 2009 piece in the Chronicle, when a 1,000-foot tower on First and Market was still in the initial stages of a new zoning plan.
 
